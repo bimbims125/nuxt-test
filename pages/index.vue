@@ -15,8 +15,8 @@
       <!-- HEADER -->
       <div class="jumbotron">
         <div class="jumbotron-text">
-          <h1>Your Name</h1>
-          <p>Full-Stack Web Developer in Boston, Ma.</p>
+          <h1>Pramdhanni Dwi Putra Bintang</h1>
+          <p>Full-Stack Web Developer in Cibinong</p>
         </div>
         <div class="bg-light">
 
@@ -24,7 +24,7 @@
         <div class="jumbotron-social">
           <ul class="ul-social">
             <li class="li-social-links">
-              <a class="social" href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
+              <a class="social" href="https://github.com/bimbims125" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
             </li>
             <li class="li-social-links">
               <a class="social" href="https://linkedin.com" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
